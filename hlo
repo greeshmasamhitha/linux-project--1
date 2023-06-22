@@ -1,0 +1,10 @@
+cd /opt
+mkdir 
+touch
+pwd
+fdisk
+yum install vim.c
+rpm -qi tree
+touch p q r
+mkdir -y a/b/c/d
+
